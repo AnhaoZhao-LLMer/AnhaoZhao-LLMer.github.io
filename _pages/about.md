@@ -27,7 +27,7 @@ I believe that democratizing large language models (LLMs)—making them more acc
 [2025.08] Got one paper accepted by EMNLP 2025🎉!   
 [2025.05] Released our new [survey](https://arxiv.org/abs/2505.16782) on Latent Chain-of-Thought Reasoning.  
 [2025.05] Got one paper accepted by ACL 2025🎉!  
-[2025.05] Got one paper accepted by ICML 2025🎉!
+[2025.05] Got one paper accepted by ICML 2025🎉!  
 [2024.09] Got one paper accepted by EMNLP 2024🎉!  
 
 # Publications
