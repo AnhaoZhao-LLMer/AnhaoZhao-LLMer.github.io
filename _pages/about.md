@@ -48,6 +48,10 @@ Findings of ACL 2025. [[link]](https://arxiv.org/pdf/2505.16983) [[code]](https:
 **<ins>Anhao Zhao</ins>**, Fanghua Ye<sup>†</sup>, Yingqi Fan, Junlong Tong, Jing Xiong, Zhiwei Fei, Hui Su, Xiaoyu Shen<sup>†</sup>
 ICML 2025. [[link]](https://openreview.net/pdf?id=d7v2iUSa9s) [[code]](https://github.com/EIT-NLP/SkipGPT)  
 
+**Unveiling In-Context Learning: A Coordinate System to Understand Its Working Mechanism**  
+Anhao Zhao, Fanghua Ye, Jinlan Fu, Xiaoyu Shen<sup>†</sup>
+EMNLP 2024 Main. [[link]](https://aclanthology.org/2024.emnlp-main.689.pdf) [[code]](https://github.com/EIT-NLP/2D-Coordinate-System-for-ICL)  
+
 **A dynamic multi-modal deep reinforcement learning framework for 3D bin packing problem**  
 **<ins>Anhao Zhao</ins>**, Tianrui Li, Liangcai Lin
 Knowledge-Based Systems 2024. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0950705124006245) [[code]](https://github.com/AnhaoZhao-LLMer/A_Dynamic_Multi-Modal_Deep_Reinforcement_Learning_Framework_for_3D_Bin_Packing_Problem)  
