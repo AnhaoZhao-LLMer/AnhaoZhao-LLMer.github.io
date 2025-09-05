@@ -15,7 +15,7 @@ I am **Anhao Zhao**, a joint Ph.D. student at the [NLP Group](https://polyunlp.g
 
 I am a long-termist, focusing on LLM efficiency with the goal of exploring the Pareto frontier between accuracy and deployment cost. My work centers on two complementary directions:
 
-- **Model architecture and KV-cache efficiency (vertical perspective):** Seeking to reduce the average per-token computational and memory cost. Recent work explores per-token adaptive activation of parameter subsets (token-aware gating; e.g., SkipGPT) [[ICML'25](https://arxiv.org/pdf/2506.04179) and strategies for selective KV-cache dropping.
+- **Model architecture and KV-cache efficiency (vertical perspective):** Seeking to reduce the average per-token computational and memory cost. Recent work explores per-token adaptive activation of parameter subsets (token-aware gating; e.g., SkipGPT) [[ICML'25](https://arxiv.org/pdf/2506.04179)] and strategies for selective KV-cache dropping.
 
 - **Token generation efficiency (horizontal perspective):** Reducing the average number of generated tokens. Recent work surveys latent reasoning as a promising paradigm for more efficient chain-of-thought (CoT) reasoning [[arXiv'25](https://arxiv.org/pdf/2506.04179)].
 
