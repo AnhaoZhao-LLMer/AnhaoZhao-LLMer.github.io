@@ -18,15 +18,15 @@ I am a long-termist, focusing on LLM efficiency with the goal of exploring the P
 
 - **Model architecture and KV-cache efficiency (vertical perspective):** Seeking to reduce the average per-token computational and memory cost. Recent work explores per-token adaptive activation of parameter subsets (token-aware gating; e.g., SkipGPT) [[ICML'25](https://arxiv.org/pdf/2506.04179)] and strategies for selective KV-cache dropping.
 
-- **Token generation efficiency (horizontal perspective):** Reducing the average number of generated tokens. Recent work surveys latent reasoning as a promising paradigm for more efficient chain-of-thought (CoT) reasoning [[arXiv'25](https://arxiv.org/pdf/2506.04179)].
+- **Token generation efficiency (horizontal perspective):** Reducing the average number of generated tokens. Recent work surveys latent reasoning as a promising paradigm for more efficient chain-of-thought (CoT) reasoning [[arXiv'25](https://arxiv.org/pdf/2505.16782)].
 
 I believe that democratizing large language models (LLMs)—making them more accessible, affordable, and widely usable—requires progress along both of these axes. 
 
 # News
 
-[2025.09] Started my Ph.D. study at the [NLP Group @ PolyU](https://polyunlp.github.io/) & [EIT NLP](https://eit-nlp.github.io/), supervised by Dr. Xiaoyu Shen and Prof. Wenjie Li.  
+[2025.09] Started my Ph.D. study at the [NLP Group @ PolyU](https://polyunlp.github.io/) & [EIT NLP](https://eit-nlp.github.io/lab-website/), supervised by Dr. Xiaoyu Shen and Prof. Wenjie Li.  
 [2025.08] Got one paper accepted by EMNLP 2025🎉!   
-[2025.05] Released our new [survey](https://arxiv.org/abs/2505.16782) on Latent Chain-of-Thought Reasoning.  
+[2025.05] Released our new [survey](https://arxiv.org/pdf/2505.16782) on Latent Chain-of-Thought Reasoning.  
 [2025.05] Got one paper accepted by ACL 2025🎉!  
 [2025.05] Got one paper accepted by ICML 2025🎉!  
 [2024.09] Got one paper accepted by EMNLP 2024🎉!  
@@ -38,7 +38,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com.hk/citat
 
 **Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning**  
 Xinghao Chen\*, **<ins>Anhao Zhao</ins>**\*, Heming Xia, Xuan Lu, Hanlin Wang, Yanjun Chen, Wei Zhang, Jian Wang<sup>†</sup>, Wenjie Li, Xiaoyu Shen<sup>†</sup>  
-Arxiv 2025. [[link]](https://arxiv.org/abs/2505.16782) [[code]](https://github.com/EIT-NLP/Awesome-Latent-CoT)  
+Arxiv 2025. [[link]](https://arxiv.org/pdf/2505.16782) [[code]](https://github.com/EIT-NLP/Awesome-Latent-CoT)  
 
 **LLM as Effective Streaming Processor: Bridging Streaming-Batch Mismatches with Group Position Encoding**  
 Junlong Tong, Jinlan Fu, Zixuan Lin, Yingqi Fan, **<ins>Anhao Zhao</ins>**, Hui Su, Xiaoyu Shen<sup>†</sup>  
