@@ -22,6 +22,8 @@ I am a long-termist, focusing on LLM efficiency with the goal of exploring the P
 
 I believe that democratizing large language models (LLMs)—making them more accessible, affordable, and widely usable—requires progress along both of these axes. 
 
+📬 *I am open to collaborations and discussions. Please feel free to reach out to me if you are interested in my research or any relevant topics.*
+
 # News
 
 [2025.09] Started my Ph.D. study at the [NLP Group @ PolyU](https://polyunlp.github.io/) & [EIT NLP](https://eit-nlp.github.io/lab-website/), supervised by Dr. Xiaoyu Shen and Prof. Wenjie Li.  
