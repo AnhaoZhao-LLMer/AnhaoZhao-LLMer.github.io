@@ -60,7 +60,5 @@ Knowledge-Based Systems 2024. [[link]](https://www.sciencedirect.com/science/art
 
 
 <div id="mapmyvisitors-widget" style="width:40%; margin: 0 auto; display:block;">
-{% raw %}
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=afTwX2ycX1wEm9gTuX9zoo-NhxMLThqkW2-0vJ83YqU&cl=ffffff&w=a"></script>
-{% endraw %}
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=afTwX2ycX1wEm9gTuX9zoo-NhxMLThqkW2-0vJ83YqU&cl=ffffff&w=a"></script>
 </div>
