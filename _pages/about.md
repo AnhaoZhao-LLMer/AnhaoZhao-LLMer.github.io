@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- ## About Me -->
 
-I am **Anhao Zhao**, a joint Ph.D. student at the [NLP Group](https://polyunlp.github.io/) of The Hong Kong Polytechnic University & [EIT NLP](https://eit-nlp.github.io/lab-website/) of Eastern Institute of Technology, Ningbo, fortunately supervised by Dr. [Xiaoyu Shen](https://chin-gyou.github.io//) and Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/). 
+I am **Anhao Zhao**, a joint Ph.D. student at the [NLP Group](https://polyunlp.github.io/) of The Hong Kong Polytechnic University & [EIT NLP](https://idt.eitech.edu.cn/nlp/#/) of Eastern Institute of Technology, Ningbo, fortunately supervised by Dr. [Xiaoyu Shen](https://chin-gyou.github.io//) and Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/). 
 
 # Research
 
