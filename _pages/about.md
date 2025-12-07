@@ -26,6 +26,7 @@ I believe that democratizing large language models (LLMs)—making them more acc
 
 # News
 
+[2025.11] Attended EMNLP 2025 in person for the first time — a truly exciting experience 🎉  
 [2025.09] Started my Ph.D. study at the [NLP Group @ PolyU](https://polyunlp.github.io/) & [EIT NLP](https://eit-nlp.github.io/lab-website/), supervised by Dr. Xiaoyu Shen and Prof. Wenjie Li.  
 [2025.08] Got one paper accepted by EMNLP 2025🎉!   
 [2025.05] Released our new [survey](https://arxiv.org/pdf/2505.16782) on Latent Chain-of-Thought Reasoning.  
@@ -37,6 +38,14 @@ I believe that democratizing large language models (LLMs)—making them more acc
 
 Most recent publications on [Google Scholar](https://scholar.google.com.hk/citations?user=19oxcOwAAAAJ&hl=zh-CN&oi=ao).  
 \* indicates equal contribution
+
+**VisiPruner: Decoding Discontinuous Cross-Modal Dynamics for Efficient Multimodal LLMs**  
+Yingqi Fan, **<ins>Anhao Zhao</ins>**, Jinlan Fu, Junlong Tong, Hui Su, Yijie Pan, Wei Zhang, Xiaoyu Shen<sup>†</sup>    
+EMNLP 2025 Main. [[link]](https://aclanthology.org/2025.emnlp-main.955.pdf) [[code]](https://github.com/EIT-NLP/VisiPruner)  
+
+**StreamingThinker: Large Language Models Can Think While Reading**  
+Junlong Tong, Yingqi Fan, **<ins>Anhao Zhao</ins>**, Yunpu Ma, Xiaoyu Shen<sup>†</sup>   
+ArXiv 2025. [[link]](https://arxiv.org/pdf/2510.17238)  
 
 **Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning**  
 Xinghao Chen\*, **<ins>Anhao Zhao</ins>**\*, Heming Xia, Xuan Lu, Hanlin Wang, Yanjun Chen, Wei Zhang, Jian Wang<sup>†</sup>, Wenjie Li, Xiaoyu Shen<sup>†</sup>  
