@@ -38,6 +38,9 @@ I believe that democratizing large language models (LLMs)—making them more acc
 
 Most recent publications on [Google Scholar](https://scholar.google.com.hk/citations?user=19oxcOwAAAAJ&hl=zh-CN&oi=ao).  
 \* indicates equal contribution
+**From LLMs to LRMs: Rethinking Pruning for Reasoning-Centric Models**
+Longwei Ding, **<ins>Anhao Zhao</ins>**, Fanghua Ye, Ziyang Chen, Xiaoyu Shen<sup>†</sup>
+Arxiv 2026. [[link]](https://arxiv.org/pdf/2601.18091) [[code]](https://github.com/EIT-NLP/LRM-Pruning)  
 
 **VisiPruner: Decoding Discontinuous Cross-Modal Dynamics for Efficient Multimodal LLMs**  
 Yingqi Fan, **<ins>Anhao Zhao</ins>**, Jinlan Fu, Junlong Tong, Hui Su, Yijie Pan, Wei Zhang, Xiaoyu Shen<sup>†</sup>    
@@ -45,7 +48,7 @@ EMNLP 2025 Main. [[link]](https://aclanthology.org/2025.emnlp-main.955.pdf) [[co
 
 **StreamingThinker: Large Language Models Can Think While Reading**  
 Junlong Tong, Yingqi Fan, **<ins>Anhao Zhao</ins>**, Yunpu Ma, Xiaoyu Shen<sup>†</sup>   
-ArXiv 2025. [[link]](https://arxiv.org/pdf/2510.17238)  
+ICLR 2026. [[link]](https://arxiv.org/pdf/2510.17238) [[code]](https://github.com/EIT-NLP/StreamingLLM) 
 
 **Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning**  
 Xinghao Chen\*, **<ins>Anhao Zhao</ins>**\*, Heming Xia, Xuan Lu, Hanlin Wang, Yanjun Chen, Wei Zhang, Jian Wang<sup>†</sup>, Wenjie Li, Xiaoyu Shen<sup>†</sup>  
@@ -67,6 +70,12 @@ EMNLP 2024 Main. [[link]](https://aclanthology.org/2024.emnlp-main.689.pdf) [[co
 **<ins>Anhao Zhao</ins>**, Tianrui Li, Andrew Lim  
 Knowledge-Based Systems 2024. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0950705124006245) [[code]](https://github.com/AnhaoZhao-LLMer/A_Dynamic_Multi-Modal_Deep_Reinforcement_Learning_Framework_for_3D_Bin_Packing_Problem)  
 
+# Service
+**Reviewer/Program Committee Member:**
+ICLR2026, CVPR2026, ECCV2026, ICML2026
+
+**Teaching Assistant:**    
+COMP 5311: Internet Infrastructure and Protocols, Fall 2025, PolyU  
 
 <div id="mapmyvisitors-widget" style="width:40%; margin: 0 auto; display:block;">
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=afTwX2ycX1wEm9gTuX9zoo-NhxMLThqkW2-0vJ83YqU&cl=ffffff&w=a"></script>
