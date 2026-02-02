@@ -18,7 +18,7 @@ I am a long-termist, focusing on LLM efficiency with the goal of exploring the P
 
 - **Model architecture and KV-cache efficiency (vertical perspective):** Aiming to reduce the per-token computational and memory cost. Recent work includes SkipGPT [[ICML'25](https://arxiv.org/pdf/2506.04179)], which proposes per-token adaptive activation of parameter subsets (token-aware gating), as well as strategies for selective KV-cache dropping [[EMNLP'25](https://openreview.net/pdf?id=eqSChk2Bx8)].
 
-- **Token generation efficiency (horizontal perspective):** Reducing the average number of generated tokens. One recent line of work surveys latent reasoning as a promising paradigm for achieving more efficient chain-of-thought (CoT) reasoning [[arXiv'25](https://arxiv.org/pdf/2505.16782)]. Another line of work investigates early-answer generation strategies, where models can output responses before fully processing the input or completing reasoning steps [[ACL'25](https://arxiv.org/pdf/2505.16983)].
+- **Token generation efficiency (horizontal perspective):** Reducing the average number of generated tokens. One recent line of work surveys latent reasoning as a promising paradigm for achieving more efficient chain-of-thought (CoT) reasoning [[arXiv'25](https://arxiv.org/pdf/2505.16782)]. Another line of work investigates early-answer generation strategies, where models can output responses before fully processing the input or completing reasoning steps [[ACL'25](https://arxiv.org/pdf/2505.16983),[ICLR'26](https://arxiv.org/pdf/2510.17238)].
 
 I believe that democratizing large language models (LLMs)—making them more accessible, affordable, and widely usable—requires progress along both of these axes. 
 
@@ -38,8 +38,9 @@ I believe that democratizing large language models (LLMs)—making them more acc
 
 Most recent publications on [Google Scholar](https://scholar.google.com.hk/citations?user=19oxcOwAAAAJ&hl=zh-CN&oi=ao).  
 \* indicates equal contribution
-**From LLMs to LRMs: Rethinking Pruning for Reasoning-Centric Models**
-Longwei Ding, **<ins>Anhao Zhao</ins>**, Fanghua Ye, Ziyang Chen, Xiaoyu Shen<sup>†</sup>
+
+**From LLMs to LRMs: Rethinking Pruning for Reasoning-Centric Models**  
+Longwei Ding, **<ins>Anhao Zhao</ins>**, Fanghua Ye, Ziyang Chen, Xiaoyu Shen<sup>†</sup>  
 Arxiv 2026. [[link]](https://arxiv.org/pdf/2601.18091) [[code]](https://github.com/EIT-NLP/LRM-Pruning)  
 
 **VisiPruner: Decoding Discontinuous Cross-Modal Dynamics for Efficient Multimodal LLMs**  
@@ -71,8 +72,8 @@ EMNLP 2024 Main. [[link]](https://aclanthology.org/2024.emnlp-main.689.pdf) [[co
 Knowledge-Based Systems 2024. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0950705124006245) [[code]](https://github.com/AnhaoZhao-LLMer/A_Dynamic_Multi-Modal_Deep_Reinforcement_Learning_Framework_for_3D_Bin_Packing_Problem)  
 
 # Service
-**Reviewer/Program Committee Member:**
-ICLR2026, CVPR2026, ECCV2026, ICML2026
+**Reviewer/Program Committee Member:**  
+ICLR26, CVPR26, ECCV26, ICML26
 
 **Teaching Assistant:**    
 COMP 5311: Internet Infrastructure and Protocols, Fall 2025, PolyU  
