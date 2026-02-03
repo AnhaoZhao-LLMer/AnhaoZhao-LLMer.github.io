@@ -26,7 +26,7 @@ I believe that democratizing large language models (LLMs)—making them more acc
 
 # News
 
-[2026.01] Got one paper accepted by ICLR 2026🎉! 
+[2026.01] Got one paper accepted by ICLR 2026🎉!  
 [2025.11] Attended EMNLP 2025 in person for the first time — a truly exciting experience 🎉  
 [2025.09] Started my Ph.D. study at the [NLP Group @ PolyU](https://polyunlp.github.io/) & [EIT NLP](https://eit-nlp.github.io/lab-website/), supervised by Dr. Xiaoyu Shen and Prof. Wenjie Li.  
 [2025.08] Got one paper accepted by EMNLP 2025🎉!   
