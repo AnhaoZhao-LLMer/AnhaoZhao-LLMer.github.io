@@ -26,6 +26,7 @@ I believe that democratizing large language models (LLMs)—making them more acc
 
 # News
 
+[2026.02] Got one paper accepted by CVPR 2026🎉!  
 [2026.01] Got one paper accepted by ICLR 2026🎉!  
 [2025.11] Attended EMNLP 2025 in person for the first time — a truly exciting experience 🎉  
 [2025.09] Started my Ph.D. study at the [NLP Group @ PolyU](https://polyunlp.github.io/) & [EIT NLP](https://eit-nlp.github.io/lab-website/), supervised by Dr. Xiaoyu Shen and Prof. Wenjie Li.  
@@ -42,6 +43,10 @@ Most recent publications on [Google Scholar](https://scholar.google.com.hk/citat
 
 
 ## Conference & Journal Papers
+
+**What Do Visual Tokens Really Encode? Uncovering Sparsity and Redundancy in Multimodal Large Language Models**  
+Yingqi Fan, Junlong Tong, **<ins>Anhao Zhao</ins>**, Xiaoyu Shen†  
+CVPR 2026. [[link]](https://arxiv.org/pdf/2603.00510) [[code]](https://github.com/EIT-NLP/EmbedLens)
 
 **StreamingThinker: Large Language Models Can Think While Reading**  
 Junlong Tong, Yingqi Fan, **<ins>Anhao Zhao</ins>**, Yunpu Ma, Xiaoyu Shen†  
@@ -71,6 +76,14 @@ Knowledge-Based Systems 2024. [[link]](https://www.sciencedirect.com/science/art
 
 ## ArXiv Preprints
 
+**On-Policy Supervised Fine-Tuning for Efficient Reasoning**  
+**<ins>Anhao Zhao</ins>**, Ziyang Chen, Junlong Tong, Yingqi Fan, Fanghua Ye, Shuhao Li, Yunpu Ma, Wenjie Li, Xiaoyu Shen†  
+Arxiv 2026. [[link]](https://arxiv.org/pdf/2602.13407) [[code]](https://github.com/EIT-NLP/On-Policy-SFT)
+
+**ViCA: Efficient Multimodal LLMs with Vision-Only Cross-Attention**  
+Wenjie Liu, Hao Wu, Xin Qiu, Yingqi Fan, Yihan Zhang, **<ins>Anhao Zhao</ins>**, Yunpu Ma, Xiaoyu Shen†  
+Arxiv 2026. [[link]](https://arxiv.org/pdf/2602.07574) [[code]](https://github.com/EIT-NLP/ViCA)
+
 **From LLMs to LRMs: Rethinking Pruning for Reasoning-Centric Models**  
 Longwei Ding, **<ins>Anhao Zhao</ins>**, Fanghua Ye, Ziyang Chen, Xiaoyu Shen†  
 Arxiv 2026. [[link]](https://arxiv.org/pdf/2601.18091) [[code]](https://github.com/EIT-NLP/LRM-Pruning)
@@ -85,5 +98,6 @@ ICLR26, CVPR26, ECCV26, ICML26
 
 **Teaching Assistant:**    
 COMP 5311: Internet Infrastructure and Protocols, Fall 2025, PolyU  
+COMP 5532: DIGITAL TWINS & VIRTUAL HUMAN, Spring 2026, PolyU
 
 {% include mapmyvisitors.html %}
