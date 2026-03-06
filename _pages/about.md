@@ -86,6 +86,4 @@ ICLR26, CVPR26, ECCV26, ICML26
 **Teaching Assistant:**    
 COMP 5311: Internet Infrastructure and Protocols, Fall 2025, PolyU  
 
-<div id="mapmyvisitors-widget" style="width:40%; margin: 0 auto; display:block;">
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=afTwX2ycX1wEm9gTuX9zoo-NhxMLThqkW2-0vJ83YqU&cl=ffffff&w=a"></script>
-</div>
+{% include mapmyvisitors.html %}
