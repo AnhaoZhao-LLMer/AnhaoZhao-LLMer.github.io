@@ -40,37 +40,44 @@ I believe that democratizing large language models (LLMs)—making them more acc
 Most recent publications on [Google Scholar](https://scholar.google.com.hk/citations?user=19oxcOwAAAAJ&hl=zh-CN&oi=ao).  
 \* indicates equal contribution
 
-**From LLMs to LRMs: Rethinking Pruning for Reasoning-Centric Models**  
-Longwei Ding, **<ins>Anhao Zhao</ins>**, Fanghua Ye, Ziyang Chen, Xiaoyu Shen<sup>†</sup>  
-Arxiv 2026. [[link]](https://arxiv.org/pdf/2601.18091) [[code]](https://github.com/EIT-NLP/LRM-Pruning)  
 
-**VisiPruner: Decoding Discontinuous Cross-Modal Dynamics for Efficient Multimodal LLMs**  
-Yingqi Fan, **<ins>Anhao Zhao</ins>**, Jinlan Fu, Junlong Tong, Hui Su, Yijie Pan, Wei Zhang, Xiaoyu Shen<sup>†</sup>    
-EMNLP 2025 Main. [[link]](https://aclanthology.org/2025.emnlp-main.955.pdf) [[code]](https://github.com/EIT-NLP/VisiPruner)  
+## Conference & Journal Papers
 
 **StreamingThinker: Large Language Models Can Think While Reading**  
-Junlong Tong, Yingqi Fan, **<ins>Anhao Zhao</ins>**, Yunpu Ma, Xiaoyu Shen<sup>†</sup>   
-ICLR 2026. [[link]](https://arxiv.org/pdf/2510.17238) [[code]](https://github.com/EIT-NLP/StreamingLLM) 
+Junlong Tong, Yingqi Fan, **<ins>Anhao Zhao</ins>**, Yunpu Ma, Xiaoyu Shen†  
+ICLR 2026. [[link]](https://arxiv.org/pdf/2510.17238) [[code]](https://github.com/EIT-NLP/StreamingLLM)
 
-**Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning**  
-Xinghao Chen\*, **<ins>Anhao Zhao</ins>**\*, Heming Xia, Xuan Lu, Hanlin Wang, Yanjun Chen, Wei Zhang, Jian Wang<sup>†</sup>, Wenjie Li, Xiaoyu Shen<sup>†</sup>  
-Arxiv 2025. [[link]](https://arxiv.org/pdf/2505.16782) [[code]](https://github.com/EIT-NLP/Awesome-Latent-CoT)  
+**VisiPruner: Decoding Discontinuous Cross-Modal Dynamics for Efficient Multimodal LLMs**  
+Yingqi Fan, **<ins>Anhao Zhao</ins>**, Jinlan Fu, Junlong Tong, Hui Su, Yijie Pan, Wei Zhang, Xiaoyu Shen†  
+EMNLP 2025 Main. [[link]](https://aclanthology.org/2025.emnlp-main.955.pdf) [[code]](https://github.com/EIT-NLP/VisiPruner)
 
 **LLM as Effective Streaming Processor: Bridging Streaming-Batch Mismatches with Group Position Encoding**  
-Junlong Tong, Jinlan Fu, Zixuan Lin, Yingqi Fan, **<ins>Anhao Zhao</ins>**, Hui Su, Xiaoyu Shen<sup>†</sup>  
-Findings of ACL 2025. [[link]](https://arxiv.org/pdf/2505.16983) [[code]](https://github.com/EIT-NLP/StreamingLLM)  
+Junlong Tong, Jinlan Fu, Zixuan Lin, Yingqi Fan, **<ins>Anhao Zhao</ins>**, Hui Su, Xiaoyu Shen†  
+Findings of ACL 2025. [[link]](https://arxiv.org/pdf/2505.16983) [[code]](https://github.com/EIT-NLP/StreamingLLM)
 
 **SkipGPT: Each Token is One of a Kind**  
-**<ins>Anhao Zhao</ins>**, Fanghua Ye<sup>†</sup>, Yingqi Fan, Junlong Tong, Jing Xiong, Zhiwei Fei, Hui Su, Xiaoyu Shen<sup>†</sup>  
-ICML 2025. [[link]](https://openreview.net/pdf?id=d7v2iUSa9s) [[code]](https://github.com/EIT-NLP/SkipGPT)  
+**<ins>Anhao Zhao</ins>**, Fanghua Ye†, Yingqi Fan, Junlong Tong, Jing Xiong, Zhiwei Fei, Hui Su, Xiaoyu Shen†  
+ICML 2025. [[link]](https://openreview.net/pdf?id=d7v2iUSa9s) [[code]](https://github.com/EIT-NLP/SkipGPT)
 
 **Unveiling In-Context Learning: A Coordinate System to Understand Its Working Mechanism**  
-**<ins>Anhao Zhao</ins>**, Fanghua Ye, Jinlan Fu, Xiaoyu Shen<sup>†</sup>  
-EMNLP 2024 Main. [[link]](https://aclanthology.org/2024.emnlp-main.689.pdf) [[code]](https://github.com/EIT-NLP/2D-Coordinate-System-for-ICL)  
+**<ins>Anhao Zhao</ins>**, Fanghua Ye, Jinlan Fu, Xiaoyu Shen†  
+EMNLP 2024 Main. [[link]](https://aclanthology.org/2024.emnlp-main.689.pdf) [[code]](https://github.com/EIT-NLP/2D-Coordinate-System-for-ICL)
 
 **A dynamic multi-modal deep reinforcement learning framework for 3D bin packing problem**  
 **<ins>Anhao Zhao</ins>**, Tianrui Li, Andrew Lim  
-Knowledge-Based Systems 2024. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0950705124006245) [[code]](https://github.com/AnhaoZhao-LLMer/A_Dynamic_Multi-Modal_Deep_Reinforcement_Learning_Framework_for_3D_Bin_Packing_Problem)  
+Knowledge-Based Systems 2024. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0950705124006245) [[code]](https://github.com/AnhaoZhao-LLMer/A_Dynamic_Multi-Modal_Deep_Reinforcement_Learning_Framework_for_3D_Bin_Packing_Problem)
+
+
+
+## ArXiv Preprints
+
+**From LLMs to LRMs: Rethinking Pruning for Reasoning-Centric Models**  
+Longwei Ding, **<ins>Anhao Zhao</ins>**, Fanghua Ye, Ziyang Chen, Xiaoyu Shen†  
+Arxiv 2026. [[link]](https://arxiv.org/pdf/2601.18091) [[code]](https://github.com/EIT-NLP/LRM-Pruning)
+
+**Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning**  
+Xinghao Chen\*, **<ins>Anhao Zhao</ins>**\*, Heming Xia, Xuan Lu, Hanlin Wang, Yanjun Chen, Wei Zhang, Jian Wang†, Wenjie Li, Xiaoyu Shen†  
+Arxiv 2025. [[link]](https://arxiv.org/pdf/2505.16782) [[code]](https://github.com/EIT-NLP/Awesome-Latent-CoT)
 
 # Service
 **Reviewer/Program Committee Member:**  
