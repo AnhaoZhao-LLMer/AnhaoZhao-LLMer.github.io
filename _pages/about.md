@@ -26,7 +26,8 @@ I believe that democratizing large language models (LLMs)—making them more acc
 
 # News
 
-[2026.02] Got one paper accepted by CVPR 2026🎉!  
+[2026.05] Got one paper accepted by ICML 2026🎉!  
+[2026.02] Got one paper accepted by CVPR 2026 **Spotlight**🎉!  
 [2026.01] Got one paper accepted by ICLR 2026🎉!  
 [2025.11] Attended EMNLP 2025 in person for the first time — a truly exciting experience 🎉  
 [2025.09] Started my Ph.D. study at the [NLP Group @ PolyU](https://polyunlp.github.io/) & [EIT NLP](https://eit-nlp.github.io/lab-website/), supervised by Dr. Xiaoyu Shen and Prof. Wenjie Li.  
@@ -76,6 +77,14 @@ Knowledge-Based Systems 2024. [[link]](https://www.sciencedirect.com/science/art
 
 ## ArXiv Preprints
 
+**Decoupling KL and Trajectories: A Unified Perspective for SFT, DAgger, Offline RL, and OPD in LLM Distillation**  
+**<ins>Anhao Zhao</ins>**, H Xin, Yingqi Fan, Junlong Tong, Wenjie Li, Xiaoyu Shen  
+Arxiv 2026. [[link]](https://arxiv.org/pdf/2605.16826)
+
+**SkipOPU: An FPGA-based Overlay Processor for Large Language Models with Dynamically Allocated Computation**  
+Z He, **<ins>Anhao Zhao</ins>**, Xiaoyu Shen, C Wu, L He  
+Arxiv 2026. [[link]](https://arxiv.org/pdf/2603.14785)
+
 **On-Policy Supervised Fine-Tuning for Efficient Reasoning**  
 **<ins>Anhao Zhao</ins>**, Ziyang Chen, Junlong Tong, Yingqi Fan, Fanghua Ye, Shuhao Li, Yunpu Ma, Wenjie Li, Xiaoyu Shen†  
 Arxiv 2026. [[link]](https://arxiv.org/pdf/2602.13407) [[code]](https://github.com/EIT-NLP/On-Policy-SFT)
@@ -94,7 +103,7 @@ Arxiv 2025. [[link]](https://arxiv.org/pdf/2505.16782) [[code]](https://github.c
 
 # Service
 **Reviewer/Program Committee Member:**  
-ICLR26, CVPR26, ECCV26, ICML26
+ICLR26, CVPR26, ECCV26, ICML26, NeurIPS26
 
 **Teaching Assistant:**    
 COMP 5311: Internet Infrastructure and Protocols, Fall 2025, PolyU  
