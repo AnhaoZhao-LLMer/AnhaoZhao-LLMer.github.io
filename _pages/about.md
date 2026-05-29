@@ -82,7 +82,7 @@ Knowledge-Based Systems 2024. [[link]](https://www.sciencedirect.com/science/art
 Arxiv 2026. [[link]](https://arxiv.org/pdf/2605.16826)
 
 **SkipOPU: An FPGA-based Overlay Processor for Large Language Models with Dynamically Allocated Computation**  
-Z He, **<ins>Anhao Zhao</ins>**, Xiaoyu Shen, C Wu, L He  
+Zicheng He, **<ins>Anhao Zhao</ins>**, Xiaoyu Shen, Chen Wu, Lei He  
 Arxiv 2026. [[link]](https://arxiv.org/pdf/2603.14785)
 
 **On-Policy Supervised Fine-Tuning for Efficient Reasoning**  
