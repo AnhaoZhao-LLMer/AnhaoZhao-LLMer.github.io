@@ -78,7 +78,7 @@ h1, h2, h3 { line-height: 1.3; }
 .news-row { display: grid; grid-template-columns: 88px minmax(0,1fr); gap: 20px; padding: 8px 0; line-height: 1.65; }
 .news-row time { color: var(--muted); font-size: .875rem; font-variant-numeric: tabular-nums; padding-top: 2px; }
 .news-row p { margin: 0; }
-.news-list > .news-row:first-child strong { color: var(--accent); }
+.news-row strong { color: var(--accent); }
 .older-news { margin-top: 13px; }
 .older-news summary { width: fit-content; color: var(--accent); font-size: .875rem; cursor: pointer; padding: 4px 0; }
 .older-news[open] summary { margin-bottom: 10px; }
