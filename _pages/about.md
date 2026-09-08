@@ -55,6 +55,14 @@ Five papers accepted to EMNLP 2026: **3 Main Conference papers** and **2 Finding
 </div>
 </div>
 <div class="news-row">
+<time datetime="2026-07">2026.07</time>
+<div markdown="1">
+
+[SkipOPU](https://arxiv.org/abs/2603.14785) accepted to **ACM Transactions on Reconfigurable Technology and Systems (TRETS)** 🎉!
+
+</div>
+</div>
+<div class="news-row">
 <time datetime="2026-05">2026.05</time>
 <div markdown="1">
 
@@ -236,6 +244,22 @@ Xinghao Chen\*, **<ins>Anhao Zhao</ins>**\*, Heming Xia, Xuan Lu, Hanlin Wang, Y
 </article>
 
 <article class="publication">
+<div class="publication-venue" aria-label="ACM Transactions on Reconfigurable Technology and Systems, accepted July 2026"><span>ACM TRETS</span><small>2026 · Accepted</small></div>
+<div class="publication-body" markdown="1">
+
+### SkipOPU: An FPGA-based Overlay Processor for Large Language Models with Dynamically Allocated Computation
+
+Zicheng He, **<ins>Anhao Zhao</ins>**, Xiaoyu Shen, Chen Wu, Lei He
+
+<div class="publication-links" markdown="1">
+
+[Paper](https://arxiv.org/pdf/2603.14785)
+
+</div>
+</div>
+</article>
+
+<article class="publication">
 <div class="publication-venue" aria-label="CVPR 2026"><span>CVPR</span><small>2026</small></div>
 <div class="publication-body" markdown="1">
 
@@ -408,22 +432,6 @@ Junlong Tong, Yao Zhang, **<ins>Anhao Zhao</ins>**, Yingqi Fan, Yunpu Ma, Xiaoyu
 <div class="publication-links" markdown="1">
 
 [Paper](https://arxiv.org/pdf/2605.16826)
-
-</div>
-</div>
-</article>
-
-<article class="publication">
-<div class="publication-venue" aria-label="Arxiv 2026"><span>arXiv</span><small>2026</small></div>
-<div class="publication-body" markdown="1">
-
-### SkipOPU: An FPGA-based Overlay Processor for Large Language Models with Dynamically Allocated Computation
-
-Zicheng He, **<ins>Anhao Zhao</ins>**, Xiaoyu Shen, Chen Wu, Lei He
-
-<div class="publication-links" markdown="1">
-
-[Paper](https://arxiv.org/pdf/2603.14785)
 
 </div>
 </div>
