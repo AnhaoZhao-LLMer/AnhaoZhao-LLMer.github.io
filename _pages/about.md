@@ -249,7 +249,7 @@ Xinghao Chen\*, **<ins>Anhao Zhao</ins>**\*, Heming Xia, Xuan Lu, Hanlin Wang, Y
 
 ### SkipOPU: An FPGA-based Overlay Processor for Large Language Models with Dynamically Allocated Computation
 
-Zicheng He, **<ins>Anhao Zhao</ins>**, Xiaoyu Shen, Chen Wu, Lei He
+Zicheng He\*, **<ins>Anhao Zhao</ins>**\*, Xiaoyu Shen, Chen Wu, Lei He
 
 <div class="publication-links" markdown="1">
 
