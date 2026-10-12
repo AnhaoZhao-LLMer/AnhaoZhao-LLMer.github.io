@@ -21,7 +21,7 @@ My research focuses on **LLM post-training** and **LLM efficiency**, with the lo
 
 ### LLM post-training
 
-I study how supervised fine-tuning (SFT), reinforcement learning (RL), and on-policy distillation (OPD) can develop stronger reasoning and agentic capability. My work explores SFT on self-generated data for efficient reasoning [[On-Policy SFT](https://arxiv.org/abs/2602.13407)], RL for adaptive streaming reasoning [[AdaSR](https://arxiv.org/abs/2606.14694)], and more stable and effective OPD [[PowerOPD](https://arxiv.org/abs/2606.17199), [KL Agreement Trap](https://arxiv.org/abs/2606.09471)].
+I study how supervised fine-tuning (SFT), reinforcement learning (RL), and on-policy distillation (OPD) can develop stronger reasoning and agentic capability. My work explores SFT on self-generated data for efficient reasoning [[On-Policy SFT](https://arxiv.org/abs/2602.13407)], RL for adaptive streaming reasoning [[AdaSR](https://arxiv.org/abs/2606.14694)], more stable and effective OPD [[PowerOPD](https://arxiv.org/abs/2606.17199), [KAT](https://arxiv.org/abs/2606.09471)], and token-efficient supervision through selective distillation [[DIAL-OPD](https://arxiv.org/abs/2610.11659)].
 
 </div>
 
@@ -46,6 +46,14 @@ I explore efficiency at both the **token** and **architecture** levels. At the t
 <section id="news" class="profile-section" aria-labelledby="news-title">
 <h2 id="news-title">News</h2>
 <div class="news-list">
+<div class="news-row">
+<time datetime="2026-09">2026.09</time>
+<div markdown="1">
+
+🎉 **[PowerOPD](https://arxiv.org/abs/2606.17199)** and **[KAT](https://arxiv.org/abs/2606.09471)** were selected for **oral presentations at EMNLP 2026**!
+
+</div>
+</div>
 <div class="news-row">
 <time datetime="2026-09">2026.09</time>
 <div markdown="1">
@@ -180,7 +188,7 @@ Haozhe Hu, Hao Wu, **<ins>Anhao Zhao</ins>**, Longwei Ding, Peiran Yin, Yunpu Ma
 </article>
 
 <article class="publication">
-<div class="publication-venue" aria-label="EMNLP 2026 Main"><span>EMNLP</span><small>2026 · Main</small></div>
+<div class="publication-venue" aria-label="EMNLP 2026 Main Oral"><span>EMNLP</span><small>2026 · Main · <strong>Oral</strong></small></div>
 <div class="publication-body" markdown="1">
 
 ### PowerOPD: Stabilizing On-Policy Distillation with Bounded Power Transformation
@@ -196,7 +204,7 @@ Haozhe Hu, Hao Wu, **<ins>Anhao Zhao</ins>**, Longwei Ding, Peiran Yin, Yunpu Ma
 </article>
 
 <article class="publication">
-<div class="publication-venue" aria-label="EMNLP 2026 Main"><span>EMNLP</span><small>2026 · Main</small></div>
+<div class="publication-venue" aria-label="EMNLP 2026 Main Oral"><span>EMNLP</span><small>2026 · Main · <strong>Oral</strong></small></div>
 <div class="publication-body" markdown="1">
 
 ### Escaping the KL Agreement Trap in On-Policy Distillation
@@ -372,6 +380,22 @@ Junlong Tong, Jinlan Fu, Zixuan Lin, Yingqi Fan, **<ins>Anhao Zhao</ins>**, Hui 
 </article>
 
 <h3 class="publication-group-title">ArXiv Preprints</h3>
+
+<article class="publication">
+<div class="publication-venue" aria-label="Arxiv 2026"><span>arXiv</span><small>2026</small></div>
+<div class="publication-body" markdown="1">
+
+### DIAL-OPD: Learning More from Fewer Tokens in On-Policy Distillation
+
+**<ins>Anhao Zhao</ins>**, Haoran Xin, Junlong Tong, Yingqi Fan, Xuan Lu, Ping Nie, Wenjie Li, Xiaoyu Shen†
+
+<div class="publication-links" markdown="1">
+
+[Paper](https://arxiv.org/abs/2610.11659)
+
+</div>
+</div>
+</article>
 
 <article class="publication">
 <div class="publication-venue" aria-label="Arxiv 2026"><span>arXiv</span><small>2026</small></div>
