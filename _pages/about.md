@@ -50,6 +50,14 @@ I explore efficiency at both the **token** and **architecture** levels. At the t
 <time datetime="2026-09">2026.09</time>
 <div markdown="1">
 
+Gave a talk on **Multi-Teacher and Cross-Vocabulary On-Policy Distillation** at [DINQ Session 1](https://hub.baai.ac.cn/view/57988) in Beijing.
+
+</div>
+</div>
+<div class="news-row">
+<time datetime="2026-09">2026.09</time>
+<div markdown="1">
+
 🎉 **[PowerOPD](https://arxiv.org/abs/2606.17199)** and **[KAT](https://arxiv.org/abs/2606.09471)** were selected for **oral presentations at EMNLP 2026**!
 
 </div>
@@ -506,6 +514,25 @@ Longwei Ding, **<ins>Anhao Zhao</ins>**, Fanghua Ye, Ziyang Chen, Xiaoyu Shen†
 [Paper](https://arxiv.org/pdf/2601.18091) [Code](https://github.com/EIT-NLP/LRM-Pruning)
 
 </div>
+</div>
+</article>
+
+</section>
+
+<section id="talks" class="profile-section talks-section" aria-labelledby="talks-title" markdown="1">
+
+<h2 id="talks-title">Talks</h2>
+
+<article class="talk" markdown="1">
+
+### Multi-Teacher and Cross-Vocabulary On-Policy Distillation
+
+<p class="talk-details">DINQ Session 1 · Beijing, China · <time datetime="2026-09-20">September 20, 2026</time></p>
+
+<div class="publication-links" markdown="1">
+
+[Event](https://hub.baai.ac.cn/view/57988)
+
 </div>
 </article>
 
