@@ -50,7 +50,7 @@ I explore efficiency at both the **token** and **architecture** levels. At the t
 <time datetime="2026-09">2026.09</time>
 <div markdown="1">
 
-Gave a talk on **Multi-Teacher and Cross-Vocabulary On-Policy Distillation** at [DINQ Session 1](https://hub.baai.ac.cn/view/57988) in Beijing.
+Gave a talk on **Multi-Teacher and Cross-Tokenizer On-Policy Distillation** at [DINQ Session 1](https://hub.baai.ac.cn/view/57988) in Beijing.
 
 </div>
 </div>
@@ -525,7 +525,7 @@ Longwei Ding, **<ins>Anhao Zhao</ins>**, Fanghua Ye, Ziyang Chen, Xiaoyu Shen†
 
 <article class="talk" markdown="1">
 
-### Multi-Teacher and Cross-Vocabulary On-Policy Distillation
+### Multi-Teacher and Cross-Tokenizer On-Policy Distillation
 
 <p class="talk-details">DINQ Session 1 · Beijing, China · <time datetime="2026-09-20">September 20, 2026</time></p>
 
