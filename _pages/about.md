@@ -43,6 +43,17 @@ I explore efficiency at both the **token** and **architecture** levels. At the t
 
 </section>
 
+<section id="experience" class="profile-section" aria-labelledby="experience-title">
+<h2 id="experience-title">Experience</h2>
+<h3>Xiaohongshu · dots Foundation Model Team</h3>
+<p>Research Intern · <time datetime="2026-07">July</time>–<time datetime="2026-11">November 2026</time></p>
+<ul>
+  <li><strong>Multi-teacher on-policy distillation (MOPD).</strong> Integrated supervision from reasoning, agentic, and multimodal teacher models into a shared distillation pipeline.</li>
+  <li><strong>Cross-tokenizer OPD for agentic tasks.</strong> Studied how to distill teacher supervision into a student model on its own tool-use trajectories when the two models use different tokenizers.</li>
+  <li><strong>MOPD infrastructure.</strong> Contributed to MOPD infrastructure, with a focus on consistency between training and inference.</li>
+</ul>
+</section>
+
 <section id="news" class="profile-section" aria-labelledby="news-title">
 <h2 id="news-title">News</h2>
 <div class="news-list">
